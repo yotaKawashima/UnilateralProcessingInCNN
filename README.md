@@ -3,6 +3,7 @@
 ## Overview
 This project is part of the Artificial Neural Networks in Cognitive Neuroscience seminar at FU for the winter semester 2024/2025. For project information, please check [Presentation slides](https://github.com/yotaKawashima/UnilateralProcessingInCNN/blob/main/Kawashima_20241018_NeuroAISeminar%40FU.pdf).
 
+Some of the code originates from Jupyter notebooks used in the seminar by Adrien Doerig. These notebooks were inspired by the work of Niklas Müller for the UvA NeuroAI Summer School 2024, organized by Steven Scholte and Iris Groen at the University of Amsterdam.
 
 ## Usage
 ### Google Colab
